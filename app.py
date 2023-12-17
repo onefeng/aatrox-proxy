@@ -13,8 +13,8 @@ import logging
 import threading
 
 # 端口映射配置信息
-CFG_REMOTE_IP = '1.15.182.65'
-CFG_REMOTE_PORT = 20005
+CFG_REMOTE_IP = '43.128.109.196'
+CFG_REMOTE_PORT = 10001
 CFG_LOCAL_IP = '0.0.0.0'
 CFG_LOCAL_PORT = 5000
 
